@@ -1,14 +1,14 @@
 {
-  "version": 5,
+  "version": 6,
   "items": [
     {
-      "id": "8d171f36-c579-4173-bd10-d161f1ac4169",
-      "hash": "b6845baf651ab67aed10c96288e6814228b56a2b448f9b789586ad1e762b21d9",
-      "title": "Video inicial · ScreenSync",
-      "size": 4379122,
+      "id": "24874f73-c2eb-4408-aaf0-cff1beef1128",
+      "hash": "26706bbd16517f9aaee52d897f0728ef2e1a713d13081019d599b4bc266c4487",
+      "title": "bossa-verificador-desde-15-nov",
+      "size": 3982618,
       "kind": "price-checker",
       "expiresAt": null,
-      "url": "https://github.com/Bossa33/bossa-screensync-campaigns/releases/download/screensync-assets/b6845baf651ab67aed10c96288e6814228b56a2b448f9b789586ad1e762b21d9.mp4"
+      "url": "https://github.com/Bossa33/bossa-screensync-campaigns/releases/download/screensync-assets/26706bbd16517f9aaee52d897f0728ef2e1a713d13081019d599b4bc266c4487.mp4"
     }
   ]
 }
